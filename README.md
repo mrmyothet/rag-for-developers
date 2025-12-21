@@ -1,2 +1,3 @@
-# rag-for-developers
-RAG for Developers
+# RAG for Developers
+
+- Vector Space Models and Embeddings in RAGs
